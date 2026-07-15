@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/download/eea8b5499-5e95bbd4e/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <url>
+       <loc>https://keralatreasury.github.io/network/</loc>
+       <lastmod>2026-07-15T09:16:40+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>1.0000</priority>
+  </url>
+  <url>
+       <loc>https://keralatreasury.github.io/network/admin.html</loc>
+       <lastmod>2026-07-15T09:16:40+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://keralatreasury.github.io/network/password-manager.html</loc>
+       <lastmod>2026-07-15T09:16:40+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.6400</priority>
+  </url>
+  <url>
+       <loc>https://keralatreasury.github.io/network/blog/index.html</loc>
+       <lastmod>2026-07-15T09:16:40+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.6400</priority>
+  </url>
+  <url>
+       <loc>https://keralatreasury.github.io/network/login.html</loc>
+       <lastmod>2026-07-15T09:16:40+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.5120</priority>
+  </url>
+  <url>
+       <loc>https://keralatreasury.github.io/network/index.html</loc>
+       <lastmod>2026-07-15T09:16:40+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.4096</priority>
+  </url>
+</urlset>
